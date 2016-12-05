@@ -1,0 +1,24 @@
+body {
+      background-color: #000000
+}
+
+h1 {
+    height: 50px;
+    color: #ffffff;
+    font-family: sanz-serif;
+    font-size: 1.5em;
+    text-align: center;
+    margin:0;
+    
+}
+p1 {
+   color: #ffffff;
+   font-family: sanz-serif;
+   font-size: 1em;
+   margin:0
+}
+
+line.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
