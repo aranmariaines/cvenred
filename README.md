@@ -1,4 +1,4 @@
-# CVenred
+# CV en red
 Códigos utilizados en https://glial-depletions.000webhostapp.com/
 
 Primero se genera un archivo JSON con datos de la red en Python, utilizando el modulo NETWORKX (Archivo cv.py)
